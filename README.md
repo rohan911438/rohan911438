@@ -1,4 +1,37 @@
-# Hi there! 👋 I'm- 🐍 **Primary Language:** **Python** (My go-to for everything!)
+# Hi there! 👋 I'm- 🐍 **Pri# Hi there! 👋 I'm Rohan Kumar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="cent## 📝 Areas of Interest
+
+- 🧠 **Neural Networks** with TensorFlow and PyTorch
+- 📊 **Data Science** using the complete Python ecosystem
+- 🔄 **MLOps** with Python-based tools and frameworks
+- 🎯 **Computer Vision** using OpenCV and Python
+- 🌟 **Natural Language Processing** with Python libraries
+- 🚀 **Algorithmic Trading** and financial analysis with Pythonimg src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Engineer;Data+Science+Enthusiast;AI+Researcher;Building+the+Future+with+Code" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Tech Animation" width="500">
+</div>
+
+## 🚀 About Me
+
+> *"I enjoy bringing ideas to life through code. I'm curious, detail-oriented, and always learning new things."*
+
+- 🐍 **Primary Language:** **Python** (My go-to for everything!)
+- 💻 **Systems Programming:** **C** (Strong foundation in low-level programming)
+- 🔭 I'm currently working on **Advanced Machine Learning & AI Projects**
+- 🌱 I'm currently learning **Large Language Models & Generative AI**
+- 👯 I'm looking to collaborate on **Python-based ML/AI Projects**
+- 🤔 I'm looking for help with **Scaling ML Models in Production**
+- 💬 Ask me about **Python, C Programming, Machine Learning, Data Science, or AI**
+- 📫 How to reach me: **123131rkorohan@gmail.com**
+- 📍 Location: **India** 🇮🇳
+- 💻 **Total Commits:** **128+ and counting!**ary Language:** **Python** (My go-to for everything!)
 - 💻 **Systems Programming:** **C** (Strong foundation in low-level programming)
 - 🔭 I'm currently working on **Advanced Machine Lear- 🌟 **Natural Language Processing** with Python libraries
 - 💾 **System Programming** and performance optimization with C
@@ -205,13 +238,13 @@
 
 </div>
 
-## 🚀 Programming Journey Highlights
+## 🚀 Python Journey Highlights
 
-- 🎯 **Primary Languages:** Python (Learning & Growing) & C (Proficient)
-- 📈 **Continuous Learning:** Always exploring new Python libraries and C system programming
-- 🔥 **Active Development:** Regular commits showcasing progress in both languages
-- 🌟 **Project Diversity:** From data science to web APIs (Python) and system programming (C)
-- 🤝 **Knowledge Sharing:** Helping others learn Python, C, and their applications
+- 🎯 **Primary Language:** Python (Advanced level proficiency)
+- 📈 **Continuous Learning:** Always exploring new Python libraries and frameworks
+- 🔥 **Active Development:** Regular commits showcasing Python expertise
+- 🌟 **Project Diversity:** From data science to web APIs, all powered by Python
+- 🤝 **Knowledge Sharing:** Helping others learn Python and its applications
 
 ## 📝 Areas of Interest
 
@@ -234,6 +267,6 @@
 </div>
 
 <div align="center">
-  <h3>🐍💻 "Python for AI, C for Performance - Best of Both Worlds!" 🐍💻</h3>
-  <p><em>Thanks for visiting! Let's build amazing things with Python and C! 🚀</em></p>
+  <h3>🐍 "Python is not just a language, it's a superpower!" 🐍</h3>
+  <p><em>Thanks for visiting! Let's build amazing things with Python! 🚀</em></p>
 </div>
