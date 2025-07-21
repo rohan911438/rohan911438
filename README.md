@@ -1,4 +1,12 @@
-# Hi there! 👋 I'm Rohan Kumar
+# Hi there! 👋 I'm- 🐍 **Primary Language:** **Python** (My go-to for everything!)
+- 💻 **Systems Programming:** **C** (Strong foundation in low-level programming)
+- 🔭 I'm currently working on **Advanced Machine Lear- 🌟 **Natural Language Processing** with Python libraries
+- 💾 **System Programming** and performance optimization with C
+- 🚀 **Algorithmic Trading** and financial analysis with Pythong & AI Projects**
+- 🌱 I'm currently learning **Large Language Models & Generative AI**
+- 👯 I'm looking to collaborate on **Python-based ML/AI Projects**
+- 🤔 I'm looking for help with **Scaling ML Models in Production**
+- 💬 Ask me about **Python, C Programming, Machine Learning, Data Science, or AI**Kumar
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -33,7 +41,7 @@
 
 ### 🐍 Core Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Python](https://img.shields.io/badge/-Python%20Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/-C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
@@ -183,7 +191,6 @@
 
 - 🐍 **Advanced Python Development** - Mastering advanced Python concepts and design patterns
 - 💻 **System Programming with C** - Exploring low-level programming and performance optimization
-- 🤖 **Large Language Models** - Working with transformers and generative AI using Pythonerns
 - 🤖 **Large Language Models** - Working with transformers and generative AI using Python
 - 🌟 **Open Source Contributions** - Contributing to Python-based ML/AI libraries
 - 📚 **MLOps Mastery** - Building production-ready ML systems with Python
@@ -194,15 +201,15 @@
 
 <div align="center">
   
-**🐍 Python Expert | 💻 128+ Commits | 🏆 19+ Repositories | ⭐ Growing Impact | 👥 Active Community Member**
+**🐍 Python Enthusiast | 💻 128+ Commits | 🏆 19+ Repositories | ⭐ Growing Impact | 👥 Active Community Member**
 
 </div>
 
 ## 🚀 Programming Journey Highlights
 
-- 🎯 **Primary Languages:** Python (Advanced) & C (Proficient)
+- 🎯 **Primary Languages:** Python (Learning & Growing) & C (Proficient)
 - 📈 **Continuous Learning:** Always exploring new Python libraries and C system programming
-- 🔥 **Active Development:** Regular commits showcasing expertise in both languages
+- 🔥 **Active Development:** Regular commits showcasing progress in both languages
 - 🌟 **Project Diversity:** From data science to web APIs (Python) and system programming (C)
 - 🤝 **Knowledge Sharing:** Helping others learn Python, C, and their applications
 
