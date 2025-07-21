@@ -221,10 +221,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</div>
-
-<div align="center">
-  <h3>🐍 "Python is not just a language, it's a superpower!" 🐍</h3>
-  <p><em>Thanks for visiting! Let's build amazing things with Python! 🚀</em></p>
+  <h3>💻 "Code is poetry written in logic, and every bug is just a plot twist!" �</h3>
+  <p><em>"The best way to predict the future is to code it." - Anonymous Developer</em></p>
 </div>
