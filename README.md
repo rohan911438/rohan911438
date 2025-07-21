@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Rohan Kumar
+# ⚡ Welcome to my Tech Portfolio - I'm Rohan Kumar
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
