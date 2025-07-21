@@ -17,10 +17,11 @@
 > *"I enjoy bringing ideas to life through code. I'm curious, detail-oriented, and always learning new things."*
 
 - 🐍 **Primary Language:** **Python** (My go-to for everything!)
-- 🔭 I'm currently working on **Advanced Machine Learning & AI Projects**
+- � **Systems Programming:** **C** (Strong foundation in low-level programming)
+- �🔭 I'm currently working on **Advanced Machine Learning & AI Projects**
 - 🌱 I'm currently learning **Large Language Models & Generative AI**
 - 👯 I'm looking to collaborate on **Python-based ML/AI Projects**
-- 🤔 I'm looking for help with **Scaling ML Models in Production**
+- 💬 Ask me about **Python, C Programming, Machine Learning, Data Science, or AI**
 - 💬 Ask me about **Python, Machine Learning, Data Science, or AI**
 - 📫 How to reach me: **123131rkorohan@gmail.com**
 - 📍 Location: **India** 🇮🇳
@@ -30,9 +31,11 @@
 
 <div align="center">
 
-### 🐍 Core Language
+### 🐍 Core Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python%20Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### 📊 Data Science & ML Stack
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -176,10 +179,11 @@
 - **🌐 Full-Stack** - Modern web development with TypeScript and Python backends
 - **📈 Financial ML** - Quantitative analysis and algorithmic trading strategies
 - **🔍 Computer Vision** - Image processing and pattern recognition systems
-
 ## 🎯 Current Focus Areas
 
 - 🐍 **Advanced Python Development** - Mastering advanced Python concepts and design patterns
+- 💻 **System Programming with C** - Exploring low-level programming and performance optimization
+- 🤖 **Large Language Models** - Working with transformers and generative AI using Pythonerns
 - 🤖 **Large Language Models** - Working with transformers and generative AI using Python
 - 🌟 **Open Source Contributions** - Contributing to Python-based ML/AI libraries
 - 📚 **MLOps Mastery** - Building production-ready ML systems with Python
@@ -194,13 +198,13 @@
 
 </div>
 
-## 🚀 Python Journey Highlights
+## 🚀 Programming Journey Highlights
 
-- 🎯 **Primary Language:** Python (Advanced level proficiency)
-- 📈 **Continuous Learning:** Always exploring new Python libraries and frameworks
-- 🔥 **Active Development:** Regular commits showcasing Python expertise
-- 🌟 **Project Diversity:** From data science to web APIs, all powered by Python
-- 🤝 **Knowledge Sharing:** Helping others learn Python and its applications
+- 🎯 **Primary Languages:** Python (Advanced) & C (Proficient)
+- 📈 **Continuous Learning:** Always exploring new Python libraries and C system programming
+- 🔥 **Active Development:** Regular commits showcasing expertise in both languages
+- 🌟 **Project Diversity:** From data science to web APIs (Python) and system programming (C)
+- 🤝 **Knowledge Sharing:** Helping others learn Python, C, and their applications
 
 ## 📝 Areas of Interest
 
@@ -209,7 +213,8 @@
 - 🔄 **MLOps** with Python-based tools and frameworks
 - 🎯 **Computer Vision** using OpenCV and Python
 - 🌟 **Natural Language Processing** with Python libraries
-- 🚀 **Algorithmic Trading** and financial analysis with Python
+- � **System Programming** and performance optimization with C
+- �🚀 **Algorithmic Trading** and financial analysis with Python
 
 ---
 
@@ -222,6 +227,6 @@
 </div>
 
 <div align="center">
-  <h3>🐍 "Python is not just a language, it's a superpower!" 🐍</h3>
-  <p><em>Thanks for visiting! Let's build amazing things with Python! 🚀</em></p>
+  <h3>🐍💻 "Python for AI, C for Performance - Best of Both Worlds!" 🐍💻</h3>
+  <p><em>Thanks for visiting! Let's build amazing things with Python and C! 🚀</em></p>
 </div>
