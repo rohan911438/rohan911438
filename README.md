@@ -174,6 +174,31 @@
 
 </div>
 
+<div align="center">
+
+[![Stacks Oracle Quest](https://github-readme-stats.vercel.app/api/pin/?username=rohan911438&repo=stacks-oracle-quest&theme=radical&hide_border=true)](https://github.com/rohan911438/stacks-oracle-quest)
+[![Truth Layer](https://github-readme-stats.vercel.app/api/pin/?username=rohan911438&repo=Truth-Layer&theme=radical&hide_border=true)](https://github.com/rohan911438/Truth-Layer)
+
+</div>
+
+### 🎨 **NFT & Creator Economy**
+
+<div align="center">
+
+[![CreatorStream](https://github-readme-stats.vercel.app/api/pin/?username=rohan911438&repo=CreatorStream&theme=radical&hide_border=true)](https://github.com/rohan911438/CreatorStream)
+[![ImpactX](https://github-readme-stats.vercel.app/api/pin/?username=rohan911438&repo=ImpactX&theme=radical&hide_border=true)](https://github.com/rohan911438/ImpactX)
+
+</div>
+
+### 🔗 **Multi-Chain DApps**
+
+<div align="center">
+
+[![BLACKWEB](https://github-readme-stats.vercel.app/api/pin/?username=rohan911438&repo=BLACKWEB&theme=radical&hide_border=true)](https://github.com/rohan911438/BLACKWEB)
+[![Celo NFT](https://github-readme-stats.vercel.app/api/pin/?username=rohan911438&repo=Celo-NFT&theme=radical&hide_border=true)](https://github.com/rohan911438/Celo-NFT)
+
+</div>
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -277,12 +302,12 @@
 
 ## 🎯 Current Focus Areas
 
-- ⛓️ **Smart Contract Security** - Mastering advanced security patterns and audit techniques
-- 🌐 **Cross-Chain Development** - Building interoperable DApps across multiple blockchains
-- 🔥 **DeFi Protocols** - Creating innovative financial instruments and yield farming strategies
-- 🎮 **GameFi & NFTs** - Developing play-to-earn games and NFT marketplaces
-- 🚀 **Layer 2 Scaling** - Implementing solutions on Polygon, Arbitrum, and other L2s
-- 🤝 **Web3 Community** - Contributing to open-source Web3 projects and DAOs
+- ⛓️ **Smart Contract Security** - Advanced security patterns and audit techniques
+- 🌐 **Cross-Chain Development** - Interoperable DApps across multiple blockchains  
+- 🔥 **DeFi Protocols** - Innovative financial instruments and yield farming
+- 🎮 **GameFi & NFTs** - Play-to-earn games and NFT marketplaces
+- 🚀 **Layer 2 Scaling** - Solutions on Polygon, Arbitrum, and other L2s
+- 🤝 **Web3 Community** - Open-source contributions and DAO participation
 
 ## 📊 Web3 Development Statistics
 
@@ -294,23 +319,46 @@
 
 <div align="center">
 
-**Featured Achievements:**
+**🌟 Featured Achievements:**
 - 🐍 **ArbitPy**: First Python-to-Arbitrum compiler with live deployment
-- 🎨 **IP-Fi Explorer**: Story Protocol integration with NPM package
+- 🎨 **IP-Fi Explorer**: Story Protocol integration with NPM package  
 - 🛡️ **DeFi Guard**: Real-time AI security for DeFi protocols
 - ⚡ **SafeTx Protocol**: Solana transaction optimization system
 - 📊 **Cross-Chain Portfolio**: 6+ different blockchain networks
 
 </div>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan911438&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan911438&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohan911438&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan911438&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🌐 Connect with Me
+
 <div align="center">
 
-**Featured Achievements:**
-- 🐍 **ArbitPy**: First Python-to-Arbitrum compiler with live deployment
-- 🎨 **IP-Fi Explorer**: Story Protocol integration with NPM package
-- 🛡️ **DeFi Guard**: Real-time AI security for DeFi protocols
-- ⚡ **SafeTx Protocol**: Solana transaction optimization system
-- 📊 **Cross-Chain Portfolio**: 6+ different blockchain networks
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-kumar-1a60b7314/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ROHANKUMAR77238)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohan_kr.io)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan911438)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:123131rkorohan@gmail.com)
 
 </div>
 
