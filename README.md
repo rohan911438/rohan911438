@@ -338,11 +338,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan911438&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohan911438&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
 
 
 
