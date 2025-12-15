@@ -344,11 +344,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rohan911438&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
-## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan911438&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ## 🌐 Connect with Me
 
