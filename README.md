@@ -70,6 +70,10 @@ I build production-minded Web3 products with a bias toward agentic automation, c
 ## GitHub Overview
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Merged%20PRs-71-111827?style=for-the-badge&logo=github&logoColor=white" alt="Merged PRs 71" />
+</p>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rohan911438&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
