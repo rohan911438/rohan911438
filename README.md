@@ -74,7 +74,7 @@ I build production-minded Web3 products with a bias toward agentic automation, c
 ## GitHub Overview
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Merged%20PRs-71-111827?style=for-the-badge&logo=github&logoColor=white" alt="Merged PRs 71" />
+  <img src="https://img.shields.io/badge/Merged%20PRs-103-111827?style=for-the-badge&logo=github&logoColor=white" alt="Merged PRs 103" />
 </p>
 
 <p align="left">
@@ -89,9 +89,7 @@ I build production-minded Web3 products with a bias toward agentic automation, c
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan911438&theme=radical" alt="Profile Details" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan911438&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+
 
 ## Contact
 
