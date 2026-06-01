@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Web3 builder shipping AI agents, DeFi rails, and protocol tooling.</b>
+  <b>Product-focused Web3 engineer building agentic AI, DeFi rails, and developer tooling.</b>
 </p>
 
 <p align="center">
@@ -14,16 +14,16 @@
   <img src="https://img.shields.io/badge/DeFi-Protocol%20Tooling-1D4ED8?style=for-the-badge&logo=uniswap&logoColor=white" alt="DeFi" />
 </p>
 
-I build production-minded Web3 products with a bias toward agentic automation, cross-chain payments, on-chain escrow, and developer-first infrastructure. The goal is simple: ship systems that are useful, auditable, and easy to demo.
+I am a product-focused Web3 engineer specializing in agentic AI systems, cross-chain payment rails, on-chain escrow, and developer-first tooling. I prioritize shipping reliable, auditable systems that are easy to demo and maintain.
 
-## Focus
+## Areas of focus
 
-- AI agents that negotiate, transact, and execute on-chain.
-- DeFi products with real UX, not just smart-contract proofs.
-- Protocol tooling that lowers developer friction and increases adoption.
-- Open-source projects that can survive hackathons and evolve into real products.
+- Agentic AI that integrates decision-making with on-chain execution.
+- DeFi products with practical UX and production-quality integrations.
+- Developer tooling and protocol utilities that reduce friction and accelerate adoption.
+- Open-source initiatives designed for longevity and real-world use.
 
-## Skills
+## Technical skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
