@@ -48,9 +48,7 @@ I am a product-focused Web3 engineer specializing in agentic AI systems, cross-c
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohan911438&theme=radical" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohan911438&theme=radical&utcOffset=8" alt="Productive Time" />
-</div>
+
 
 <br/>
 
