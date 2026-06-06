@@ -45,8 +45,11 @@ I am a product-focused Web3 engineer specializing in agentic AI systems, cross-c
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan911438&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan911438&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohan911438&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan911438&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
