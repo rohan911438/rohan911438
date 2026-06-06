@@ -49,7 +49,7 @@ I am a product-focused Web3 engineer specializing in agentic AI systems, cross-c
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rohan911438&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan911438&theme=radical&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 
 <br/>
